@@ -1,0 +1,15 @@
+{
+  "name": "Sweater",
+  "size": "M",
+  "forGender": "Male",
+  "isReady": true,
+  "tags": ["Women's wool sweater", "Warm sweater", "Knitted sweater", "Handmade sweater", "Cozy sweater"],
+  "weight": 600,
+  "yarnDescription": {
+    "vendorCode": 130,
+    "yarnName": "Sheep's wool yarn",
+    "yarnBrand": "Pehorka",
+    "weightOfOneSkeinInGrams": 100,
+    "colorOfYarn": "Natural"
+  }
+}
